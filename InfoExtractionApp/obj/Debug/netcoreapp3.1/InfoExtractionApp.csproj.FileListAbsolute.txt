@@ -16,4 +16,13 @@ C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcor
 C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\WebDriver.dll
 C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\SeleniumHelper.dll
 C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\obj\Debug\netcoreapp3.1\InfoExtractionApp.csproj.CopyComplete
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\SharpCompress.dll
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\runtimes\win\native\libzstd.dll
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy32.dll
+C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\bin\Debug\netcoreapp3.1\runtimes\win\native\snappy64.dll
 C:\Users\elpar\source\repos\InfoExtractionApp\InfoExtractionApp\obj\Debug\netcoreapp3.1\InfoExtractionApp.csproj.CoreCompileInputs.cache
